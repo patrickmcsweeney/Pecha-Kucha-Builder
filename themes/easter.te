@@ -1,0 +1,14 @@
+<theme name='easter'>
+	<required>
+	</required>
+	<optional>
+		<motif-component>Decoration</motif-component>
+		<motif-component>religous symbol</motif-component>
+		<motif-component>party</motif-component>
+		<motif-component>food</motif-component>
+		<motif-component>easter symbol</motif-component>
+		<motif-component>sun</motif-component>
+		<motif-component>flowers</motif-component>
+		<motif-component>egg</motif-component>
+	</optional>
+</theme>

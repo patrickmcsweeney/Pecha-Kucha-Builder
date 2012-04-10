@@ -1,0 +1,13 @@
+<motif name="religous symbol">
+	<features>
+		<feature>religous symbol</feature>
+		<feature>cross</feature>
+		<feature>crucifix</feature>
+		<feature>star of david</feature>
+		<feature>buddah</feature>
+		<feature>church spire</feature>
+		<feature>church</feature>
+		<feature>temple</feature>
+		<feature>cathedral</feature>
+	</features>
+</motif>

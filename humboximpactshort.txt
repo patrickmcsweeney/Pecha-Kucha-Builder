@@ -1,0 +1,35 @@
+The Impact of Community Engagement in Teaching and Learning Repositories
+
+Abstract
+
+HumBox is a community repository for humanities-focused resources. It was created using a co-design process that revealed that for the repository to successfully support a community its users needed to have an identity in the repository, control of their own resources and lightweight communication tools. Now that HumBox has been running for over two years it is possible to reflect on these ideals and the tools that support them, and in this paper we present a survey of HumBox users that has discovered that the community tools were used to refine resources, encouraged engagement and led to a perceived improvement in pedagogic practices. Introduction
+
+HumBox is a community repository for humanities-focused Open Educational Resources (OER), reusable teaching and learning resources available under an open license (Caswell et. HumBox has achieved wide success amongst the UK OER community and has successfully survived the ending of its initial funding through the continuing engagment and efforts of its community members. Any of the site’s academic members can upload new resources, but a lightweight peer-review culture in the HumBox community has ensured that most resources are of a high quality.  A resource can consist of as many files as its creator considers valuable, these are gathered together on a single page with in-line previews so that they can be read/heard/watched within the browser. The peer-review culture fostered by the original HumBox project has meant that often resources will have a rich discussion surrounding them, leading to their subsequent refinement. Using an online survey we have discovered that the value is in the form of more easily available resources for teaching humanities and that this has in turn led to improved pedagogical practices. Community Focused Design
+
+The HumBox is based on the EdShare platform (Davis et al, 2010) and was originally co-designed with stakeholders from the target community (humanities academics who were potential users), enabling them to identify tools that were appropriate for their discipline, and the ways in which they intended to use the system. The aim of the project was to establish an OER repository for the Humanities that encouraged enagement, reuse and the remixing of resources (Lamb, 2007).
+
+Three features were identified as essential to build a strong and successful community:
+
+    Strong sense of user identity within the repository
+
+    Complete control over the materials
+    Mechanisms for communicating between repository users
+
+These essentials were satisfied in the following ways:
+
+Identity: Each user has their own user profile with an internally facing page for feedback about how people are interacting with their resources. They can also withdraw a resource at any time (for example, if they discover a problem with copyright or someone complains about the content of the resource). This allows them to discuss how they re-used the resources and suggest improvements to other users’ resources.  During the design and build phase of the project the HumBox team ran workshops for project members and other potential users. The aim of the workshops were to get the users of HumBox talking to each other face-to-face and to build connections between them that would make the digital experience of using the HumBox more grounded. Methodology and Aims
+
+The HumBox repository has now been running for two years, one year longer than the initial funding period, and the community has continued to use the site, upload resources and comment on each other’s contributions. The survey was emailed to all registered HumBox users, circulated in the HumBox project network and advertised on the front of the repository and was open for 4 months. Engagement with the HumBox community then further refines these resources. Although the resources are already of teaching quality when they are uploaded a fifth of survey respondents said they had changed a resource as the result of a comment they received. The public way peer refinement is carried out in the Humbox community opens resources to a cross-institution academic audience increasing the scope for feedback. Respondents said they made a range of refinements to their resources from polishing up to fixing broken hyperlinks to republishing in different file formats. One respondent mentioned that they had won an award for one of the resources which they had refined. An analysis of Humbox usage data shows that users who receive comments  contribute more to the community. Users can also see their most viewed items and how often they have been viewed and there is also a demonstrated correlation between a users average views per item and the number of deposits they receive (Pearsons correlation coefficient of 0.407, df=439). A quarter of those respondents reuse the resource unchanged. Over half of the respondents which had reused also said they had modified the resource to suit their needs (see Fig. These respondents remix existing resources to create new resources or remix their existing resources with other existing content.
+
+Figure 2: How Respondents reused resources
+
+Some users are changing their pedagogic practices as a direct result of using HumBox. About a fifth of the respondents said that they had been inspired to change their pedagogic practices by a resource they had found in HumBox. Over half the respondents who reused a resource in their teaching had perceived a change in their pedagogic practice (see Fig. Examples include:
+
+    Using methodologies from other resources in their own teaching
+    Looking at open content for ideas and materials before writing their own materials
+    Experimenting with new types, styles and formats of teaching materials
+
+Figure 3: Reusing the resources of others
+5. Conclusions
+
+The HumBox is a repository of Open Educational Resources that has been live for over two years, with a small but active community (of more than 400 registered users). To build the community we brought users together in workshops and offered them tools to establish identity, control their resources and communicate with each other. The intention was that tools for communication would not only lead to refinement of resources but would also encourages users to engage with content and others in the community. We have discovered that community interaction (such as downloads and commentary) encourages engagement and that enabling the reuse and community refinement of teaching materials has had a positive influence on the wider pedagogic practices of users, in particular those that have chosen to use open educational resources from the repository in their own teaching.

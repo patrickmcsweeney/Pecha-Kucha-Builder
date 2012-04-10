@@ -1,0 +1,10 @@
+<theme name="winter">
+	<required>		
+	</required>
+	<optional>
+		<motif-component>Cold</motif-component>
+		<motif-component>Snow</motif-component>
+		<motif-component>Warm Clothing</motif-component>
+		<motif-component>christmas symbol</motif-component>
+	</optional>
+</theme>

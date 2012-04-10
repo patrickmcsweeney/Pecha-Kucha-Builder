@@ -1,0 +1,11 @@
+<theme name="danger">
+	<required>
+	</required>
+	<optional>
+		<motif-component>Warning</motif-component>
+		<motif-component>Accident</motif-component>
+		<motif-component>Dangerous Enviroment</motif-component>
+		<motif-component>Dangerous Animal</motif-component>
+		<theme-component>Violence</theme-component>
+	</optional>
+</theme>

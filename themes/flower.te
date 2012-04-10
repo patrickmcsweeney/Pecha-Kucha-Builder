@@ -1,0 +1,10 @@
+<motif name="flower">
+	<features>
+		<feature>flower</feature>
+		<feature>tulip</feature>
+		<feature>rose</feature>
+		<feature>lily</feature>
+		<feature>daisy</feature>
+		<feature>dafodil</feature>
+	</features>
+</motif>

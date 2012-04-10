@@ -1,0 +1,14 @@
+<theme name='christmas'>
+	<required>
+	</required>
+	<optional>
+		<motif-component>Decoration</motif-component>
+		<motif-component>party</motif-component>
+		<motif-component>food</motif-component>
+		<motif-component>christmas symbol</motif-component>
+		<motif-component>gift</motif-component>
+		<motif-component>Cold</motif-component>
+		<motif-component>Snow</motif-component>
+		<motif-component>religious symbol</motif-component>
+	</optional>
+</theme>
