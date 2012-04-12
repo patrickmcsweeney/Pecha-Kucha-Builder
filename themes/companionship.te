@@ -2,7 +2,7 @@
 	<required>		
 	</required>
 	<optional>
-		<motif-component>Friend</motif-component>
+		<motif-component>friend</motif-component>
 		<motif-component>gift</motif-component>
 		<motif-component>embrace</motif-component>
 		<motif-component>greeting</motif-component>

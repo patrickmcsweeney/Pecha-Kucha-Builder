@@ -2,10 +2,10 @@
 	<required>
 	</required>
 	<optional>
-		<motif-component>Prank</motif-component>
-		<motif-component>Grave</motif-component>
+		<motif-component>prank</motif-component>
+		<motif-component>grave</motif-component>
 		<motif-component>skull</motif-component>
-		<motif-component>Decoration</motif-component>
+		<motif-component>decoration</motif-component>
 		<motif-component>party</motif-component>
 		<motif-component>food</motif-component>
 		<motif-component>gift</motif-component>

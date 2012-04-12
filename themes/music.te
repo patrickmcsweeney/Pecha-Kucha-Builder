@@ -1,11 +1,11 @@
-<theme name='Music'>
+<theme name='music'>
 	<required>
 	</required>
 	<optional>
-		<motif-component>Sound System</motif-component>
-		<motif-component>Band</motif-component>
-		<motif-component>Musician</motif-component>
-		<motif-component>Dance</motif-component>
-		<motif-component>Instrument</motif-component>
+		<motif-component>sound system</motif-component>
+		<motif-component>band</motif-component>
+		<motif-component>musician</motif-component>
+		<motif-component>dance</motif-component>
+		<motif-component>instrument</motif-component>
 	</optional>
 </theme>

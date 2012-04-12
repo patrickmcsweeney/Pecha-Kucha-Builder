@@ -95,7 +95,14 @@ foreach my $keyword (@slide_words)
 	}
 
 	
-	push @slides, shift(@{$images{$keyword}});
+	while(my $image = shift(@{$images{$keyword}})){
+		# this is a horrible line, sorry. does a little for loop to find out if an element is in the array. It doesnt happen much so its not too expensive. it stops duplicate slides...
+		if(! grep {$_ eq $image} @slides)
+		{
+			push @slides, $image;
+			last;
+		}
+	}
 }
 
 my $count = 1;

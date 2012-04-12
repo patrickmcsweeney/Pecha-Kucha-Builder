@@ -1,9 +1,9 @@
-<motif name="Father">
+<motif name="father">
 
 
 	<features>
-		<feature>Father</feature>
-		<feature>Dad</feature>
-		<feature>Daddy</feature>
+		<feature>father</feature>
+		<feature>dad</feature>
+		<feature>daddy</feature>
 	</features>
 </motif>

@@ -2,10 +2,10 @@
 	<required>
 	</required>
 	<optional>
-		<motif-component>Grave</motif-component>
+		<motif-component>grave</motif-component>
 		<motif-component>skull</motif-component>
 		<motif-component>dark</motif-component>
-		<theme-component>Murder</theme-component>
+		<theme-component>murder</theme-component>
 		<motif-component>religous symbol</motif-component>
 		<motif-component>corpse</motif-component>
 		<motif-component>victim</motif-component>

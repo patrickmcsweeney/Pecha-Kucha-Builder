@@ -1,11 +1,11 @@
-<theme name="Parenthood">
+<theme name="parenthood">
 	<required>
 	</required>
 	<optional>
-		<motif-component>Birth</motif-component>
-		<motif-component>Mother</motif-component>
-		<motif-component>Father</motif-component>
-		<motif-component>Child</motif-component>
-		<motif-component>Care</motif-component>
+		<motif-component>birth</motif-component>
+		<motif-component>mother</motif-component>
+		<motif-component>father</motif-component>
+		<motif-component>child</motif-component>
+		<motif-component>care</motif-component>
 	</optional>
 </theme>

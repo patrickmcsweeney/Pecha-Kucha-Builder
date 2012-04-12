@@ -1,6 +1,6 @@
-<theme name="Hedonism">
+<theme name="hedonism">
 	<required>
-		<theme-component>Pleasure</theme-component>
+		<theme-component>pleasure</theme-component>
 	</required>
 	<optional>
 		<motif-component>sex</motif-component>	

@@ -2,10 +2,10 @@
 	<required>
 	</required>
 	<optional>
-		<motif-component>Warning</motif-component>
-		<motif-component>Accident</motif-component>
-		<motif-component>Dangerous Enviroment</motif-component>
-		<motif-component>Dangerous Animal</motif-component>
-		<theme-component>Violence</theme-component>
+		<motif-component>warning</motif-component>
+		<motif-component>accident</motif-component>
+		<motif-component>dangerous enviroment</motif-component>
+		<motif-component>dangerous animal</motif-component>
+		<theme-component>violence</theme-component>
 	</optional>
 </theme>

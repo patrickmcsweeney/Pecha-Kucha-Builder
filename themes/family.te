@@ -1,14 +1,14 @@
-<theme name="Family">
+<theme name="family">
 	<required>
 	</required>
 	<optional>
-		<theme-component>Parenthood</theme-component>
+		<theme-component>parenthood</theme-component>
 
-		<theme-component>Wedding</theme-component>		
-		<motif-component>Mother</motif-component>
-		<motif-component>Father</motif-component>
-		<motif-component>Sibling</motif-component>
-		<motif-component>Child</motif-component>
+		<theme-component>wedding</theme-component>		
+		<motif-component>mother</motif-component>
+		<motif-component>father</motif-component>
+		<motif-component>sibling</motif-component>
+		<motif-component>child</motif-component>
 		<motif-component>gift</motif-component>
 		<motif-component>embrace</motif-component>
 		<motif-component>greeting</motif-component>

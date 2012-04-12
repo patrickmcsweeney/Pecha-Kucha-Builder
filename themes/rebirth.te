@@ -2,7 +2,7 @@
 	<required>
 	</required>
 	<optional>
-		<theme-component>Spring</theme-component>
+		<theme-component>spring</theme-component>
 		<motif-component>bunny</motif-component>
 		<motif-component>duckling</motif-component>
 		<motif-component>child</motif-component>

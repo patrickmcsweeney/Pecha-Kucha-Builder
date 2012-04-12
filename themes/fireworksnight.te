@@ -2,7 +2,7 @@
 	<required>
 	</required>
 	<optional>
-		<motif-component>Decoration</motif-component>
+		<motif-component>decoration</motif-component>
 		<motif-component>party</motif-component>
 		<motif-component>food</motif-component>
 		<motif-component>firework</motif-component>

@@ -1,6 +1,6 @@
-<theme name='Friendship'>
+<theme name='friendship'>
 	<required>
-		<motif-component>Friend</motif-component>
+		<motif-component>friend</motif-component>
 	</required>
 	<optional>
 		<motif-component>gift</motif-component>
