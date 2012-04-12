@@ -5,7 +5,7 @@ use warnings;
 use POSIX qw/ceil/;
 
 my $number_of_slides = 20;
-my $fabula_size = 500;
+my $fabula_size = $ARGV[2] || 500;
 my $theme = $ARGV[1] || "winter";
 
 open FILE, $ARGV[0];
@@ -98,8 +98,17 @@ foreach my $keyword (@slide_words)
 	push @slides, shift(@{$images{$keyword}});
 }
 
+my $count = 1;
 foreach my $slide (@slides)
 {
 	my $keyword = shift @slide_words;
 	print "<img src='$slide' alt='$keyword' title='$keyword' />\n";
+	my $file_name = sprintf("%03d", $count).".jpg";
+	#$slide =~ s/_m\.jpg/_b.jpg/g;
+	`wget $slide -O - | convert - -resize '480x320' -size 480x320 xc:black +swap -gravity center -composite $file_name`;
+	$count++;
 }
+
+`ffmpeg -r 0.05 -b 9600 -i %03d.jpg video.mp4`;
+`espeak -f $ARGV[0] -v'en-klatt2' --stdout | lame - audio.mp3`;
+`ffmpeg -i video.mp4 -i audio.mp3 -acodec copy -vcodec copy -ab 128k -ar 44100 -map 0:0 -map 1:0 output.mp4`
